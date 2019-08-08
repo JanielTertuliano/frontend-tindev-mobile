@@ -1,2 +1,2 @@
-# frontend-tindev-mobile
+# mobile-tindev
 Aplicação Mobile em React Native
